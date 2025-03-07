@@ -68,7 +68,15 @@ df.head()
 ```
 ![image](https://github.com/user-attachments/assets/d61444f7-9a2c-47fb-ba6e-df93ba6e6c5f)
 
+```
+df.tail()
+```
+![image](https://github.com/user-attachments/assets/4216534d-0e1b-48e0-bbf2-9271b0e11a0a)
 
+```
+Array value of X
+```
+![image](https://github.com/user-attachments/assets/5ce0de2a-7cdc-4f71-b3ba-652fb3e5fb31)
 
 
 ## Result:
