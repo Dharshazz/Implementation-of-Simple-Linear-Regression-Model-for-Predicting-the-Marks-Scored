@@ -61,7 +61,8 @@ print("RMSE= ",rmse)
 ```
 
 ## Output:
-##df.head()
+```
+df.head()```
 ![image](https://github.com/user-attachments/assets/d61444f7-9a2c-47fb-ba6e-df93ba6e6c5f)
 
 
