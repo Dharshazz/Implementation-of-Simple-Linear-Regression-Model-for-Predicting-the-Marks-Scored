@@ -78,6 +78,29 @@ Array value of X
 ```
 ![image](https://github.com/user-attachments/assets/5ce0de2a-7cdc-4f71-b3ba-652fb3e5fb31)
 
+```
+Array value of Y
+```
+![image](https://github.com/user-attachments/assets/56d1e71c-a784-4d73-8fde-35697f15b0d3)
+
+```
+Values of Y prediction
+```
+![image](https://github.com/user-attachments/assets/eaa16cc3-8991-480d-8911-5925ef867520)
+
+```
+Array values of Y test
+```
+![image](https://github.com/user-attachments/assets/95479cbd-eb8d-4ba9-918e-912f46a511df)
+
+```Training Set Graph```
+![image](https://github.com/user-attachments/assets/9d01346f-3814-4a7e-a118-af422c494408)
+
+```Test Set Graph```
+![image](https://github.com/user-attachments/assets/e2529577-bf9f-4fcf-9346-cae08af1b2a4)
+
+
+
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
