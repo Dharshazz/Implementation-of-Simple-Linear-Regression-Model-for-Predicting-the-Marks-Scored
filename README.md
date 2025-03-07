@@ -93,10 +93,14 @@ Array values of Y test
 ```
 ![image](https://github.com/user-attachments/assets/95479cbd-eb8d-4ba9-918e-912f46a511df)
 
-```Training Set Graph```
+```
+Training Set Graph
+```
 ![image](https://github.com/user-attachments/assets/9d01346f-3814-4a7e-a118-af422c494408)
 
-```Test Set Graph```
+```
+Test Set Graph
+```
 ![image](https://github.com/user-attachments/assets/e2529577-bf9f-4fcf-9346-cae08af1b2a4)
 
 
